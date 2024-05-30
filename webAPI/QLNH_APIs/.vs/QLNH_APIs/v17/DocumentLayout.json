@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|d:\\quanlynhahang\\webapi\\qlnh_apis\\qlnh_apis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9b96d899-3214-4b6f-a8b9-182d4bc2f76f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "QLNH_APIs\\WeatherForecast.cs",
+              "ToolTip": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\WeatherForecast.cs",
+              "RelativeToolTip": "QLNH_APIs\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:10:52.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
