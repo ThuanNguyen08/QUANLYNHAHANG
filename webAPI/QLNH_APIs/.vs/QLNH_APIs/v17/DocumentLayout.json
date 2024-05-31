@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\qlnh_apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|d:\\quanlynhahang\\webapi\\qlnh_apis\\qlnh_apis\\migrations\\20240531033243_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\migrations\\20240531033243_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|d:\\quanlynhahang\\webapi\\qlnh_apis\\qlnh_apis\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\qlnh_apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|d:\\quanlynhahang\\webapi\\qlnh_apis\\qlnh_apis\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|d:\\quanlynhahang\\webapi\\qlnh_apis\\qlnh_apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\qlnh_apis\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,6 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "QLNH_APIs\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "QLNH_APIs\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:31:38.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240531033243_DBInit.cs",
+              "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Migrations\\20240531033243_DBInit.cs",
+              "RelativeDocumentMoniker": "QLNH_APIs\\Migrations\\20240531033243_DBInit.cs",
+              "ToolTip": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Migrations\\20240531033243_DBInit.cs",
+              "RelativeToolTip": "QLNH_APIs\\Migrations\\20240531033243_DBInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:32:44.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\appsettings.json",
               "RelativeDocumentMoniker": "QLNH_APIs\\appsettings.json",
@@ -59,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Program.cs",
               "RelativeDocumentMoniker": "QLNH_APIs\\Program.cs",
@@ -72,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "QLNH_APIs\\Data\\ApplicationDbContext.cs",
@@ -84,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Models\\User.cs",
               "RelativeDocumentMoniker": "QLNH_APIs\\Models\\User.cs",
@@ -92,12 +126,11 @@
               "RelativeToolTip": "QLNH_APIs\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T15:49:24.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T15:49:24.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "QLNH_APIs\\Controllers\\UserController.cs",
@@ -109,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "QLNH_APIs\\WeatherForecast.cs",
@@ -121,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "QLNH_APIs\\Controllers\\WeatherForecastController.cs",
