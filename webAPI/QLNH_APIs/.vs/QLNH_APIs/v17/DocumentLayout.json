@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|d:\\quanlynhahang\\webapi\\qlnh_apis\\qlnh_apis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\qlnh_apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\qlnh_apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|d:\\quanlynhahang\\webapi\\qlnh_apis\\qlnh_apis\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\qlnh_apis\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\qlnh_apis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\qlnh_apis\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\qlnh_apis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E928C733-48B2-4E93-86D0-B9BA6DD83A2A}|QLNH_APIs\\QLNH_APIs.csproj|solutionrelative:qlnh_apis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +46,90 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "QLNH_APIs\\appsettings.json",
+              "ToolTip": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\appsettings.json",
+              "RelativeToolTip": "QLNH_APIs\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T16:15:20.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Program.cs",
+              "RelativeDocumentMoniker": "QLNH_APIs\\Program.cs",
+              "ToolTip": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Program.cs",
+              "RelativeToolTip": "QLNH_APIs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:04:03.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "QLNH_APIs\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "QLNH_APIs\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:54:00.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QLNH_APIs\\Models\\User.cs",
+              "ToolTip": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Models\\User.cs",
+              "RelativeToolTip": "QLNH_APIs\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:49:24.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "QLNH_APIs\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Controllers\\UserController.cs",
+              "RelativeToolTip": "QLNH_APIs\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:44:55.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "QLNH_APIs\\WeatherForecast.cs",
               "ToolTip": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\WeatherForecast.cs",
               "RelativeToolTip": "QLNH_APIs\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T15:10:52.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T15:10:52.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "QLNH_APIs\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\QUANLYNHAHANG\\webAPI\\QLNH_APIs\\QLNH_APIs\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "QLNH_APIs\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:47:35.907Z"
             }
           ]
         }
