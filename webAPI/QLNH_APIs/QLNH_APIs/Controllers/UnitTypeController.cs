@@ -19,5 +19,22 @@ namespace QLNH_APIs.Controllers
         {
             return _context.UnitType.ToList();
         }
+
+        [HttpGet("Id")]
+        public object Get([FromQuery] int Id)
+        {
+            return _context.UnitType.Where(unitType => unitType.Id == Id).Select(s => new
+            {
+                UnitType = s,
+            }).FirstOrDefault();
+        }
+
+        [HttpPost]
+        public UnitType Post([FromQuery] UnitType unitType)
+        {
+            _context.UnitType.Add(unitType);
+            _context.SaveChanges();
+            return unitType;
+        }
     }
 }

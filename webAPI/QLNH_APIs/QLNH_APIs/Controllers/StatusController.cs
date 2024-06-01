@@ -19,5 +19,22 @@ namespace QLNH_APIs.Controllers
         {
             return _context.Status.ToList();
         }
+
+        [HttpGet("Id")]
+        public object Get([FromQuery] int Id)
+        {
+            return _context.Status.Where(status => status.Id == Id).Select(s => new
+            {
+                Status = s,
+            }).FirstOrDefault();
+        }
+
+        [HttpPost]
+        public Status Post([FromQuery] Status status)
+        {
+            _context.Status.Add(status);
+            _context.SaveChanges();
+            return status;
+        }
     }
 }

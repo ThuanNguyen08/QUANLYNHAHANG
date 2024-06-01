@@ -19,5 +19,22 @@ namespace QLNH_APIs.Controllers
         {
             return _context.ItemImage.ToList();
         }
+
+        [HttpGet("Id")]
+        public object Get([FromQuery] int Id)
+        {
+            return _context.ItemImage.Where(itemImage => itemImage.Id == Id).Select(s => new
+            {
+                ItemImage = s,
+            }).FirstOrDefault();
+        }
+
+        [HttpPost]
+        public ItemImage Post([FromQuery] ItemImage itemImage)
+        {
+            _context.ItemImage.Add(itemImage);
+            _context.SaveChanges();
+            return itemImage;
+        }
     }
 }

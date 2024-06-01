@@ -19,5 +19,22 @@ namespace QLNH_APIs.Controllers
         {
             return _context.Guest.ToList();
         }
+
+        [HttpGet("Id")]
+        public object Get([FromQuery] int Id)
+        {
+            return _context.Guest.Where(guest => guest.Id == Id).Select(s => new
+            {
+                Guest = s,
+            }).FirstOrDefault();
+        }
+
+        [HttpPost]
+        public Guest Post([FromQuery] Guest guest)
+        {
+            _context.Guest.Add(guest);
+            _context.SaveChanges();
+            return guest;
+        }
     }
 }

@@ -15,9 +15,26 @@ namespace QLNH_APIs.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Order> Get()
+        public IEnumerable<OrderItem> Get()
         {
-            return _context.Order.ToList();
+            return _context.OrderItem.ToList();
+        }
+
+        [HttpGet("Id")]
+        public object Get([FromQuery] int Id)
+        {
+            return _context.OrderItem.Where(orderItem => orderItem.Id == Id).Select(s => new
+            {
+                OrderItem = s,
+            }).FirstOrDefault();
+        }
+
+        [HttpPost]
+        public OrderItem Post([FromQuery] OrderItem orderItem)
+        {
+            _context.OrderItem.Add(orderItem);
+            _context.SaveChanges();
+            return orderItem;
         }
     }
 }
